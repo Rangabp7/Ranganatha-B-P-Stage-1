@@ -1,2 +1,2 @@
 # Ranganatha-B-P-Stage-1
-#Program used Java
+#Programming language used-Java
